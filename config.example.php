@@ -3,11 +3,11 @@
 // config.php — Konfigurasi & Helper Functions
 // ============================================================
 
-define('DB_HOST',    'localhost');
-define('DB_PORT',    '3306');
-define('DB_NAME',    'fixsmart');
-define('DB_USER',    'root');
-define('DB_PASS',    'Neoval19');
+define('DB_HOST',    '');
+define('DB_PORT',    '');
+define('DB_NAME',    '');
+define('DB_USER',    '');
+define('DB_PASS',    '');
 define('DB_CHARSET', 'utf8mb4');
 
 define('APP_NAME',    'FixSmart Helpdesk');
